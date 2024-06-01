@@ -11,4 +11,4 @@ Aketza Romaniega's data science and analysis portfolio.
 * Achieved 68% classification accuracy through data preprocessing, model training, evaluation and optimization.
 * Utilized Python, TensorFlow, and data visualization tools for model development and interpretation.
 
-<img src="/images/cnn_architecture.png" width="200" height="500">
+<img src="/images/cnn_architecture.png" width="500" height="500">
