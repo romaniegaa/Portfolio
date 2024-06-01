@@ -3,7 +3,7 @@ Aketza Romaniega's data science and analysis portfolio.
 
 # [Classification of Autism Spectrum Disorder in MRI using CNNs](https://github.com/romaniegaa/TFM)
 
-<img src="https://github.com/romaniegaa/portfolio/images/brains.png" width="250" height="100">
+<img src="https://github.com/romaniegaa/Portfolio/tree/main/images/brains.png" width="500" height="200">
 
 ![MRI raw data.](/images/brains.png)
 
