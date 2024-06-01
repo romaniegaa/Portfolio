@@ -2,12 +2,13 @@
 Aketza Romaniega's data science and analysis portfolio.
 
 # [Classification of Autism Spectrum Disorder in MRI using CNNs](https://github.com/romaniegaa/TFM)
+
+![MRI raw data.](/images/brain.png)
+
 * Developed a CNN model to classify MRI scans of autism spectrum disorder and neurotypical brains.
 * Model architecture was optimized.
 * Transfer learning with pre-trained model VGG16 was tested.
 * Achieved 68% classification accuracy through data preprocessing, model training, evaluation and optimization.
 * Utilized Python, TensorFlow, and data visualization tools for model development and interpretation.
 
-![](/images/brain.png)
-
-![](/images/cnn_architecture.png)
+![Optimal CNN architecture.](/images/cnn_architecture.png)
