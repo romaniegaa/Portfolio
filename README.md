@@ -3,6 +3,8 @@ Aketza Romaniega's data science and analysis portfolio.
 
 # [Classification of Autism Spectrum Disorder in MRI using CNNs](https://github.com/romaniegaa/TFM)
 
+<img src="https://github.com/romaniegaa/portfolio/images/brains.png" width="250" height="100">
+
 ![MRI raw data.](/images/brains.png)
 
 * Developed a CNN model to classify MRI scans of autism spectrum disorder and neurotypical brains.
