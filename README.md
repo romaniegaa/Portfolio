@@ -34,7 +34,7 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 # [PROJECT 1](https://github.com/romaniegaa/TFM): Classification of Autism Spectrum Disorder in MRI using CNNs
 
 <div align="center">
-![](https://github.com/romaniegaa/Portfolio/tree/main/images/brains.png)
+![Original dataset](/images/brains.png)
 <div>
   
 * Developed a CNN model to classify MRI scans of autism spectrum disorder and neurotypical brains.
@@ -44,7 +44,7 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 * Utilized Python, TensorFlow, and data visualization tools for model development and interpretation.
 
 <div align="center">
-![](https://github.com/romaniegaa/Portfolio/tree/main/images/cnn_architecture.png)
+![Optimal CNN architecture](/images/cnn_architecture.png)
 <div>
 
 <br>
