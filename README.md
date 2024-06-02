@@ -33,15 +33,21 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 
 # [PROJECT 1](https://github.com/romaniegaa/TFM): Classification of Autism in MRI using CNNs
 
+<br>
+
 <div align="center">
 	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" width="50%">
 </div>
-  
+
+<br>
+
 * Developed a CNN model to classify MRI scans of autism spectrum disorder and neurotypical brains.
 * Model architecture was optimized.
 * Transfer learning with pre-trained model VGG16 was tested.
 * Achieved 68% classification accuracy through data preprocessing, model training, evaluation and optimization.
 * Utilized Python, TensorFlow, and data visualization tools for model development and interpretation.
+
+<br>
 
 <div align="center">
 	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/cnn_architecture.png">
