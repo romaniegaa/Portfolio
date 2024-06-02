@@ -1,4 +1,4 @@
-# Portfolio
+# Aketza Romaniega's Portfolio
 Aketza Romaniega's data science and analysis portfolio.
 
 # [Classification of Autism Spectrum Disorder in MRI using CNNs](https://github.com/romaniegaa/TFM)
