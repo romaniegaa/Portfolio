@@ -24,18 +24,18 @@ Feel free to explore my repositories, where you can see the detailed work and me
 
 Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, and contribute to exciting data science endeavors.
 
-Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/) | [E-mail](mailto:romaniegaa@gmail.com) | [GitHub](romaniegaa.github.com/Portfolio)
+Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/) | [E-mail](mailto:romaniegaa@gmail.com) | [GitHub](https://romaniegaa.github.com/Portfolio)
 
 <br>
 <br>
 
 <h2 align='center'>PROJECTS</h2>
 
-# [PROJECT 1](https://github.com/romaniegaa/TFM): Classification of Autism Spectrum Disorder in MRI using CNNs
+[PROJECT 1](https://github.com/romaniegaa/TFM): Classification of Autism Spectrum Disorder in MRI using CNNs
 
 <div align="center">
-![Original dataset](/images/brains.png)
-<div>
+	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png">
+</div>
   
 * Developed a CNN model to classify MRI scans of autism spectrum disorder and neurotypical brains.
 * Model architecture was optimized.
@@ -44,8 +44,8 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 * Utilized Python, TensorFlow, and data visualization tools for model development and interpretation.
 
 <div align="center">
-![Optimal CNN architecture](/images/cnn_architecture.png)
-<div>
+	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/cnn_architecture.png)">
+</div>
 
 <br>
 <br>
