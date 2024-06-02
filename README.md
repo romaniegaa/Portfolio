@@ -24,17 +24,15 @@ Feel free to explore my repositories, where you can see the detailed work and me
 
 Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, and contribute to exciting data science endeavors.
 
-Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/) | [E-mail](mailto:romaniegaa@gmail.com) | [GitHub](https://romaniegaa.github.com/Portfolio)
+Reach me out at: | [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/) | [E-mail](mailto:romaniegaa@gmail.com) | [GitHub](https://romaniegaa.github.com/Portfolio) |
 
 <br>
 <br>
 
 <h2 align='center'>PROJECTS</h2>
 
- <h2 align='center'>
-	 <a href="https://github.com/romaniegaa/TFM">PROJECT 1</a>: Classification of Autism in MRI using CNNs</h2>
-
-<br>
+<h2 align='center'>
+	<a href="https://github.com/romaniegaa/TFM">PROJECT 1</a>: Classification of Autism in MRI using CNNs</h2>
 
 * Developed a CNN model to classify MRI scans of autism spectrum disorder and neurotypical brains.
 * Model architecture was optimized.
@@ -44,9 +42,8 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 
 <br>
 
-<div align="center">
-	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" width="50%">
-</div>
+![](/images/brains.png)
+
 
 <br>
 
