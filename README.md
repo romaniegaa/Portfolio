@@ -31,13 +31,8 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 
 <h2 align='center'>PROJECTS</h2>
 
-# [PROJECT 1](https://github.com/romaniegaa/TFM): Classification of Autism in MRI using CNNs
-
-<br>
-
-<div align="center">
-	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" width="50%">
-</div>
+ <h2 align='center'>
+	 <a href="https://github.com/romaniegaa/TFM">PROJECT 1</a>: Classification of Autism in MRI using CNNs</h2>
 
 <br>
 
@@ -50,8 +45,8 @@ Reach me out at: [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/
 <br>
 
 <div align="center">
-	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/cnn_architecture.png">
+	<img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" width="50%">
 </div>
 
 <br>
-<br>
+
