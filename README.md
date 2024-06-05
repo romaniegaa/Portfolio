@@ -42,8 +42,9 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
-![](/images/brains.png)
-
+<div align="center"> 
+  <img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" size="75%">
+  </div>
 
 <br>
 
