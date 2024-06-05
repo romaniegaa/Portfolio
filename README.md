@@ -46,9 +46,8 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
-<div align="center"> 
-  <img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" width="75%" height="75%">
-  </div>
+![](/images/brains.png)
+
 
 <br>
 
@@ -66,8 +65,6 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
-<div align="center"> 
-  <img src="https://github.com/romaniegaa/Portfolio/blob/main/images/etldiagrama.png" width="75%" height="75%">
-  </div>
+![](/images/etldiagrama.png)
 
 <br>
