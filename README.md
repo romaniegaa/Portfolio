@@ -38,7 +38,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 * Model architecture was optimized.
 * Transfer learning with pre-trained model VGG16 was tested.
 * Achieved 68% classification accuracy through data preprocessing, model training, evaluation and optimization.
-* Utilized Python, TensorFlow, and data visualization tools for model development and interpretation.
+* Utilized ```Python```, ```TensorFlow```, and data visualization tools for model development and interpretation.
 
 <br>
 
@@ -52,3 +52,22 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
+<h2 align='center'>
+	<a href="https://github.com/romaniegaa/spotify_etl">PROJECT 2</a>: Spotify ETL pipeline</h2>
+
+* Developed a Extract-Transform-Load pipeline for Spotify.
+* Get whole discography tracks' features of an artist by only searching the name of the artist.
+* Example of usage included.
+* Utilized ```Python```, ```SpotiPy``` and ```Pandas```.
+
+<br>
+
+**Access the repository:** | <a href="https://github.com/romaniegaa/spotify_etl">PROJECT 2 REPOSITORY</a>
+
+<br>
+
+<div align="center"> 
+  <img src="https://github.com/romaniegaa/Portfolio/blob/main/images/etldiagrama.png" width="75%" height="75%">
+  </div>
+
+<br>
