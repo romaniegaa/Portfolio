@@ -52,7 +52,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 <br>
 
 <h2 align='center'>
-	<a href="https://github.com/romaniegaa/spotify_etl">PROJECT 2</a>: Spotify ETL pipeline</h2>
+	<a href="https://github.com/romaniegaa/spotify_etl">PROJECT 2</a>: Spotify ETL Pipeline</h2>
 
 * Developed a Extract-Transform-Load pipeline for Spotify.
 * Get whole discography tracks' features of an artist by only searching the name of the artist.
@@ -68,3 +68,29 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 ![](/images/etldiagrama.png)
 
 <br>
+
+<h2 align='center'>
+	<a href="https://github.com/romaniegaa/spotify_etl">PROJECT 3</a>: Data Cleaning Pipeline</h2>
+
+* Developed a Extract-Transform-Load pipeline for data.
+* Pipeline:
+ * Load the ".csv" file.
+ * Check and clean nulls.
+ * Check and clean duplicates.
+ * Calculate basic statistics and save the file.
+ * Create a correlation matrix and save heatmap graph.
+ * Calculate the Variance Inflation Factors (VIF) to check collinearity.
+ * Calculate the Interquartile Range (IQR) and get rid of outliers.
+ * Calculate the skewness of the data and perform the appropriate transformation.
+ * Obtain the transformed data.
+* Utilized ```Python```, ```NumPy```, ```Pandas```, ```Sklearn```, ```Plotly``` and ```SciPy```.Lo
+
+<br>
+
+**Access the repository:** | <a href="https://github.com/romaniegaa/data_etl">PROJECT 3 REPOSITORY</a>
+
+<br>
+
+![](/images/etldiagrama2.png)
+
+
