@@ -43,7 +43,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 <br>
 
 <div align="center"> 
-  <img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" size="75%">
+  <img src="https://github.com/romaniegaa/Portfolio/blob/main/images/brains.png" width="75%" height="75%">
   </div>
 
 <br>
