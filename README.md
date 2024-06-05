@@ -42,7 +42,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
-**Access the repository:** | <a href="https://github.com/romaniegaa/TFM">PROJECT 1 REPOSITORY</a>
+**Access the repository:** <a href="https://github.com/romaniegaa/TFM">PROJECT 1 REPOSITORY</a>
 
 <br>
 
@@ -61,7 +61,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
-**Access the repository:** | <a href="https://github.com/romaniegaa/spotify_etl">PROJECT 2 REPOSITORY</a>
+**Access the repository:** <a href="https://github.com/romaniegaa/spotify_etl">PROJECT 2 REPOSITORY</a>
 
 <br>
 
@@ -87,7 +87,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 <br>
 
-**Access the repository:** | <a href="https://github.com/romaniegaa/data_etl">PROJECT 3 REPOSITORY</a>
+**Access the repository:** <a href="https://github.com/romaniegaa/data_etl">PROJECT 3 REPOSITORY</a>
 
 <br>
 
