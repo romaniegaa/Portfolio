@@ -24,9 +24,9 @@ Feel free to explore my repositories, where you can see the detailed work and me
 
 Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, and contribute to exciting data science endeavors.
 
-**Reach me out at:** | [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/) | [E-mail](mailto:romaniegaa@gmail.com) | [GitHub](https://romaniegaa.github.com/Portfolio) |
+| **Reach me out at:** | [LinkedIn](https://www.linkedin.com/in/aketza-romaniega-bilbao/) | [E-mail](mailto:romaniegaa@gmail.com) | [GitHub](https://romaniegaa.github.com/Portfolio) |
 
-**Curriculum Vitae:** [download here](https://github.com/romaniegaa/Portfolio/blob/main/pdfs/CV_AketzaRomaniega_EN.pdf)
+| **Curriculum Vitae:** | [download here](https://github.com/romaniegaa/Portfolio/blob/main/pdfs/CV_AketzaRomaniega_EN.pdf) |
 
 <br>
 <br>
