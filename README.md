@@ -72,7 +72,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 <br>
 
 <h2 align='center'>
-	<a href="https://github.com/romaniegaa/spotify_etl">PROJECT 3</a>: Data Cleaning Pipeline</h2>
+	<a href="https://github.com/romaniegaa/data_etl">PROJECT 3</a>: Data Cleaning Pipeline</h2>
 
 * Developed a Extract-Transform-Load pipeline for data.
 * Pipeline:
@@ -85,7 +85,7 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
  * Calculate the Interquartile Range (IQR) and get rid of outliers.
  * Calculate the skewness of the data and perform the appropriate transformation.
  * Obtain the transformed data.
-* Utilized ```Python```, ```NumPy```, ```Pandas```, ```Sklearn```, ```Plotly``` and ```SciPy```.Lo
+* Utilized ```Python```, ```NumPy```, ```Pandas```, ```Sklearn```, ```Plotly``` and ```SciPy```.
 
 <br>
 
@@ -95,4 +95,31 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 ![](/images/etldiagrama2.png)
 
+<br>
 
+<h2 align='center'>
+	<a href="https://github.com/romaniegaa/crop-recommendation">PROJECT 4</a>: Crop Recommendation: EDA and Machine Learning applications</h2>
+
+* Cleaned and prepared the data.
+* **Exploratory Data Analysis:**
+ * Statistics were calculated (mean, std, min, q1, median, q3, max).
+ * Variables were visualized with boxplots and histograms.
+ * The correlation in between variables was studied.
+ * Variance Inflation Factors were calculated.
+ * Outliers were studied.
+ * Data was transformed to follow a normal distribution.
+* **Machine Learning:**
+ * Support Vector Machine
+ * Random Forest
+ * Decision Tree
+ * K Nearest Neighbours
+ * Naive Bayes
+* Utilized ```Python```, ```NumPy```, ```Pandas```, ```Sklearn```, ```Plotly``` and ```SciPy```.
+
+<br>
+
+**Access the repository:** <a href="https://github.com/romaniegaa/crop-recommendation">PROJECT 4 REPOSITORY</a>
+
+<br>
+
+![](/images/crop15.png)
