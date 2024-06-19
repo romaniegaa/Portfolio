@@ -76,15 +76,15 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 * Developed a Extract-Transform-Load pipeline for data.
 * Pipeline:
- * Load the ".csv" file.
- * Check and clean nulls.
- * Check and clean duplicates.
- * Calculate basic statistics and save the file.
- * Create a correlation matrix and save heatmap graph.
- * Calculate the Variance Inflation Factors (VIF) to check collinearity.
- * Calculate the Interquartile Range (IQR) and get rid of outliers.
- * Calculate the skewness of the data and perform the appropriate transformation.
- * Obtain the transformed data.
+	* Load the ".csv" file.
+	* Check and clean nulls.
+	* Check and clean duplicates.
+	* Calculate basic statistics and save the file.
+	* Create a correlation matrix and save heatmap graph.
+	* Calculate the Variance Inflation Factors (VIF) to check collinearity.
+	* Calculate the Interquartile Range (IQR) and get rid of outliers.
+	* Calculate the skewness of the data and perform the appropriate transformation.
+	* Obtain the transformed data.
 * Utilized ```Python```, ```NumPy```, ```Pandas```, ```Sklearn```, ```Plotly``` and ```SciPy```.
 
 <br>
@@ -102,18 +102,18 @@ Thank you for visiting my GitHub portfolio. I am eager to connect, collaborate, 
 
 * Cleaned and prepared the data.
 * **Exploratory Data Analysis:**
- * Statistics were calculated (mean, std, min, q1, median, q3, max).
- * Variables were visualized with boxplots and histograms.
- * The correlation in between variables was studied.
- * Variance Inflation Factors were calculated.
- * Outliers were studied.
- * Data was transformed to follow a normal distribution.
+	* Statistics were calculated (mean, std, min, q1, median, q3, max).
+	* Variables were visualized with boxplots and histograms.
+	* The correlation in between variables was studied.
+	* Variance Inflation Factors were calculated.
+	* Outliers were studied.
+	* Data was transformed to follow a normal distribution.
 * **Machine Learning:**
- * Support Vector Machine
- * Random Forest
- * Decision Tree
- * K Nearest Neighbours
- * Naive Bayes
+	* Support Vector Machine
+	* Random Forest
+	* Decision Tree
+	* K Nearest Neighbours
+	* Naive Bayes
 * Utilized ```Python```, ```NumPy```, ```Pandas```, ```Sklearn```, ```Plotly``` and ```SciPy```.
 
 <br>
